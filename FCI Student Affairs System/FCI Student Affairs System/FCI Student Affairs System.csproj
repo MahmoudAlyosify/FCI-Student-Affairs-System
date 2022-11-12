@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{31493675-E84E-4ED6-B973-F5CC3641648A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FCI_Student_Affairs_System</RootNamespace>
+    <AssemblyName>FCI Student Affairs System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddNewStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewStudent.Designer.cs">
+      <DependentUpon>AddNewStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BioGrade1_Sections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BioGrade1_Sections.Designer.cs" />
+    <Compile Include="BioGrade1_studentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BioGrade1_studentInfo.Designer.cs" />
+    <Compile Include="BioGrade2_Sections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BioGrade2_Sections.Designer.cs" />
+    <Compile Include="BioGrade2_studentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BioGrade2_studentInfo.Designer.cs" />
+    <Compile Include="BioGrade4_Sections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BioGrade4_Sections.Designer.cs" />
+    <Compile Include="BioGrade4_StudentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BioGrade4_StudentInfo.Designer.cs" />
+    <Compile Include="Bio_grade1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bio_grade1.Designer.cs" />
+    <Compile Include="Bio_grade2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bio_grade2.Designer.cs" />
+    <Compile Include="Bio_grade3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bio_grade3.Designer.cs" />
+    <Compile Include="Bio_grade4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bio_grade4.Designer.cs" />
+    <Compile Include="choose your login type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="choose your login type.Designer.cs">
+      <DependentUpon>choose your login type.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpLogin.Designer.cs">
+      <DependentUpon>EmpLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpMain.Designer.cs">
+      <DependentUpon>EmpMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WelcomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomeForm.Designer.cs">
+      <DependentUpon>WelcomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ِAdminMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ِAdminMain.Designer.cs">
+      <DependentUpon>ِAdminMain.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddNewStudent.resx">
+      <DependentUpon>AddNewStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BioGrade1_Sections.resx" />
+    <EmbeddedResource Include="BioGrade1_studentInfo.resx" />
+    <EmbeddedResource Include="BioGrade2_Sections.resx" />
+    <EmbeddedResource Include="BioGrade2_studentInfo.resx" />
+    <EmbeddedResource Include="BioGrade4_Sections.resx" />
+    <EmbeddedResource Include="BioGrade4_StudentInfo.resx" />
+    <EmbeddedResource Include="Bio_grade1.resx" />
+    <EmbeddedResource Include="Bio_grade2.resx" />
+    <EmbeddedResource Include="Bio_grade3.resx" />
+    <EmbeddedResource Include="Bio_grade4.resx" />
+    <EmbeddedResource Include="choose your login type.resx">
+      <DependentUpon>choose your login type.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpLogin.resx">
+      <DependentUpon>EmpLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpMain.resx">
+      <DependentUpon>EmpMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomeForm.resx">
+      <DependentUpon>WelcomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ِAdminMain.resx">
+      <DependentUpon>ِAdminMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

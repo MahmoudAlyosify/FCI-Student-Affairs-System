@@ -1,0 +1,27 @@
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI Student Affairs System.csproj.AssemblyReference.cache
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI Student Affairs System.csproj.SuggestedBindingRedirects.cache
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.AddNewStudent.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.AdminLogin.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.choose_your_login_type.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.EmpLogin.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.Properties.Resources.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System._ِAdminMain.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI Student Affairs System.csproj.GenerateResource.cache
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI Student Affairs System.csproj.CoreCompileInputs.cache
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\bin\Debug\FCI Student Affairs System.exe.config
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\bin\Debug\FCI Student Affairs System.exe
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\bin\Debug\FCI Student Affairs System.pdb
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI Student Affairs System.exe
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI Student Affairs System.pdb
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.WelcomeForm.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.EmpMain.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.BioGrade1_Sections.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.BioGrade1_studentInfo.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.BioGrade2_Sections.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.BioGrade2_studentInfo.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.BioGrade4_Sections.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.BioGrade4_StudentInfo.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.Bio_grade1.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.Bio_grade2.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.Bio_grade3.resources
+D:\نظام إدارة شئون الطالب لكلية الحاسبات والمعلومات جامعة أسيوط\FCI Student Affairs System\FCI Student Affairs System\obj\Debug\FCI_Student_Affairs_System.Bio_grade4.resources
